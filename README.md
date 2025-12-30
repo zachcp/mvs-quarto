@@ -1,4 +1,4 @@
-# <%= title %> Format
+# mol-view-story Format
 
 ## Installing
 
